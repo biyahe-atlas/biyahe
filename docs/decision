@@ -1,0 +1,8 @@
+## Decision Log
+
+| Date | Decision | Reason |
+|------|----------|--------|
+| 2026-07-05 | Weekly Closing is the core workflow | Based on the founder's real weekly routine |
+| 2026-07-05 | No per-trip recording in MVP | Drivers rely on Grab's daily net earnings |
+| 2026-07-05 | Support Sunday Free and Legal Holiday Free | Different operator policies |
+| 2026-07-05 | Approved vehicle repairs reduce rental due | Reflects actual operator practice |
